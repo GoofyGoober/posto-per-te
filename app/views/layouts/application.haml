@@ -13,12 +13,17 @@
       .row
         .col-sm-12(style="margin-top: 10px")
           .pull-left
-            %h1(style="font-family: 'Georgia'") C'è posto per te
+            %h1(style="font-family: 'Georgia'")
+              = link_to "C'è posto per te", root_path
           .pull-right.hidden-xs
-            = image_tag 'http://www.nuoviorizzonti.org/images/logo.png', style: 'max-width: 100%'
+            %a(href="http://nuoviorizzonti.org" target="_blank")
+              = image_tag 'http://www.nuoviorizzonti.org/images/logo.png', style: 'max-width: 100%'
+      
       .row
         .col-sm-12(style="max-height:260px; overflow:hidden; margin-top: 20px; margin-bottom: 35px")
+          
           = image_tag 'http://c1.staticflickr.com/9/8768/18212701859_29cc649a4f_b.jpg', style: "min-width: 100%", class: 'img-responsive'
+      
       .row
         .col-sm-3
           %ul
@@ -37,3 +42,5 @@
    
         .col-sm-6
           = yield
+        .col-sm-3
+          = yield :colonna_destra
