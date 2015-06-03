@@ -6,24 +6,28 @@
     = stylesheet_link_tag    'application', media: 'all', 'data-turbolinks-track' => true
     = javascript_include_tag 'application', 'data-turbolinks-track' => true
     = csrf_meta_tags
+    %meta{:content => "IE=edge", "http-equiv" => "X-UA-Compatible"}/
+    %meta{:content => "width=device-width, initial-scale=1", :name => "viewport"}/
   %body
     .container
       .row
         .col-sm-12(style="margin-top: 10px")
           .pull-left
             %h1(style="font-family: 'Georgia'") C'è posto per te
-          .pull-right
+          .pull-right.hidden-xs
             = image_tag 'http://www.nuoviorizzonti.org/images/logo.png', style: 'max-width: 100%'
       .row
         .col-sm-12(style="max-height:260px; overflow:hidden; margin-top: 20px; margin-bottom: 35px")
-          = image_tag 'http://c1.staticflickr.com/9/8768/18212701859_29cc649a4f_b.jpg', style: "min-width: 100%"
+          = image_tag 'http://c1.staticflickr.com/9/8768/18212701859_29cc649a4f_b.jpg', style: "min-width: 100%", class: 'img-responsive'
       .row
-        .col-sm-2
+        .col-sm-3
           %ul
             %li
-              Progetto
-              %ul
+              = link_to 'Progetto', page_path('progetto')
+              %ul(style="padding-left:18px")
                 %li= link_to 'Obiettivi', page_path('obiettivi')
+                %li= link_to 'Problemi affrontati', page_path('problemi-affrontati')
+                %li= link_to 'Beneficiari', page_path('beneficiari')
                 %li= link_to 'Partner', page_path('collaborazioni-partner')
                 %li= link_to 'Monitoraggio e valutazione', page_path('monitoraggio-valutazione')
             %li= link_to 'Chi siamo?', page_path('chi-siamo')
@@ -31,6 +35,5 @@
             
             %li= link_to 'Cittadella Cielo', page_path('cittadella-cielo')
    
-        .col-sm-10
-          
+        .col-sm-6
           = yield
