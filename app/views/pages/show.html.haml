@@ -11,7 +11,7 @@
   - if @page.immagines.size > 1
     = render 'gallery'
   - else
-    = image_tag @page.immagines.first.url(:sky) if @page.immagines.present?
+    = image_tag @page.immagines.first.url(:sky), class: 'img-responsive' if @page.immagines.present?
 
 
 - content_for :title do
