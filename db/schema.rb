@@ -11,7 +11,17 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema.define(version: 20150603105733) do
+ActiveRecord::Schema.define(version: 20150604142559) do
+
+  create_table "immagines", force: true do |t|
+    t.string   "url_file_name"
+    t.string   "url_content_type"
+    t.integer  "url_file_size"
+    t.datetime "url_updated_at"
+    t.datetime "created_at"
+    t.datetime "updated_at"
+    t.integer  "page_id"
+  end
 
   create_table "pages", force: true do |t|
     t.string   "title"

@@ -1,5 +1,7 @@
 Rails.application.routes.draw do
-  resources :pages
+  resources :immagines
+
+  resources :pages, path: 'pagina'
   root 'pages#show', id: 'progetto'
 
   # The priority is based upon order of creation: first created -> highest priority.

@@ -1,7 +1,14 @@
-= simple_form_for @page do |f|
+= simple_form_for @page, html: {multipart: true} do |f|
   = f.input :title
   = f.input :content, input_html: {rows: 20}
   = f.input :slug
   = f.input :published
   .actions
-    = f.submit 'Save'
+    = f.submit 'Save', class: 'btn btn-primary'
+
+- if @page.present?
+  %hr
+  = simple_form_for Immagine.new, html: {multipart: true} do |f|
+    = f.input :url, as: :file
+    = f.input :page_id, as: :hidden, input_html: {value: @page.id}
+    = f.submit 'Save', class: 'btn btn-primary'

@@ -1,0 +1,9 @@
+= simple_form_for(@immagine) do |f|
+  = f.error_notification
+
+  .form-inputs
+    = f.input :url, as: :file
+    = f.input :page_id, collection: Page.all
+
+  .form-actions
+    = f.button :submit, class: 'btn btn-primary'

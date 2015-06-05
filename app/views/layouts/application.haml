@@ -1,7 +1,7 @@
 !!!
 %html
   %head
-    %title 
+    %title
       = "#{yield :title} - C'è posto per te"
     = stylesheet_link_tag    'application', media: 'all', 'data-turbolinks-track' => true
     = javascript_include_tag 'application', 'data-turbolinks-track' => true
@@ -18,12 +18,12 @@
           .pull-right.hidden-xs
             %a(href="http://nuoviorizzonti.org" target="_blank")
               = image_tag 'http://www.nuoviorizzonti.org/images/logo.png', style: 'max-width: 100%'
-      
+      %hr
       .row
-        .col-sm-12(style="max-height:360px; overflow:hidden; margin-top: 20px; margin-bottom: 35px")
-          
-          = image_tag 'http://c1.staticflickr.com/9/8768/18212701859_29cc649a4f_b.jpg', style: "min-width: 100%", class: 'img-responsive'
-      
+        .col-sm-12
+          = yield :gallery
+
+      %hr
       .row
         .col-sm-3
           %ul
@@ -37,9 +37,9 @@
                 %li= link_to 'Monitoraggio e valutazione', page_path('monitoraggio-valutazione')
             %li= link_to 'Chi siamo?', page_path('chi-siamo')
             %li= link_to 'Dove siamo?', page_path('dove-siamo')
-            
+
             %li= link_to 'Cittadella Cielo', page_path('cittadella-cielo')
-   
+
         .col-sm-6
           = yield
         .col-sm-3

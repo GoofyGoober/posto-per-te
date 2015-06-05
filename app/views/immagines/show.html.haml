@@ -1,0 +1,8 @@
+%p
+  = image_tag @immagine.url
+  - if @immagine.page.present?
+    = link_to @immagine.page.title, @immagine.page
+
+= link_to 'Edit', edit_immagine_path(@immagine)
+\|
+= link_to 'Back', immagines_path

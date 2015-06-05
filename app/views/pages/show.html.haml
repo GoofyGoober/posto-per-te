@@ -7,8 +7,12 @@
     \|
     = link_to 'Back', pages_path
 
+- content_for :gallery do
+  = render 'gallery'
+
 - content_for :title do
   = @page.title
 
 - content_for :colonna_destra do
   = image_tag 'sedie.jpg', style: 'max-width: 100%; min-width: 100%'
+
