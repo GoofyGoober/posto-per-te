@@ -8,7 +8,10 @@
     = link_to 'Back', pages_path
 
 - content_for :gallery do
-  = render 'gallery'
+  - if @page.images.size > 1
+    = render 'gallery'
+  - else
+    = image_tag img.url(:sky)
 
 - content_for :title do
   = @page.title
