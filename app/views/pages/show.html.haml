@@ -11,7 +11,8 @@
   - if @page.immagines.size > 1
     = render 'gallery'
   - else
-    = image_tag img.url(:sky)
+    = image_tag @page.immagines.first.url(:sky) if @page.immagines.present?
+
 
 - content_for :title do
   = @page.title
