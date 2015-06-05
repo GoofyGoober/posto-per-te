@@ -4,10 +4,10 @@ environment 'production'
 pidfile './tmp/pids/puma.pid'
 
 # Identifica il processo
-tag 'icasco'
+tag 'postoperte'
 
 daemonize true
 threads 1,1
 stdout_redirect 'log/puma.log', 'log/puma_error.log', true
 
-bind 'unix:///var/tmp/icasco-puma.sock'
+bind 'unix:///var/tmp/postoperte-puma.sock'
