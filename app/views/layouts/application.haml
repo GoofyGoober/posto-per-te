@@ -18,10 +18,11 @@
           .pull-right.hidden-xs
             %a(href="http://nuoviorizzonti.org" target="_blank")
               = image_tag 'http://www.nuoviorizzonti.org/images/logo.png', style: 'max-width: 100%'
-      %hr
-      .row
-        .col-sm-12
-          = yield :gallery
+      - if action_name == "show"
+        %hr
+        .row
+          .col-sm-12
+            = yield :gallery
 
       %hr
       .row
@@ -39,8 +40,11 @@
             %li= link_to 'Dove siamo?', page_path('dove-siamo')
 
             %li= link_to 'Cittadella Cielo', page_path('cittadella-cielo')
-
-        .col-sm-6
-          = yield
-        .col-sm-3
-          = yield :colonna_destra
+        - if action_name == "show"
+          .col-sm-6
+            = yield
+          .col-sm-3
+            = yield :colonna_destra
+        - else
+          .col-sm-9
+            = yield

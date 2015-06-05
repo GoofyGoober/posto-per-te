@@ -11,7 +11,7 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema.define(version: 20150604142559) do
+ActiveRecord::Schema.define(version: 20150605152805) do
 
   create_table "immagines", force: true do |t|
     t.string   "url_file_name"
@@ -33,5 +33,12 @@ ActiveRecord::Schema.define(version: 20150604142559) do
   end
 
   add_index "pages", ["slug"], name: "index_pages_on_slug", unique: true
+
+  create_table "users", force: true do |t|
+    t.string   "email"
+    t.string   "encrypted_password"
+    t.datetime "created_at"
+    t.datetime "updated_at"
+  end
 
 end
