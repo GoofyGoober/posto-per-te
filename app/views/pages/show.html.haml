@@ -1,22 +1,20 @@
-%h2(style="margin-top: 0; text-transform: uppercase; text-rendering: optimizeLegibility; border-bottom: 1px solid #ccc; margin-bottom: 10px; padding-bottom: 10px")= @page.title
-%div(style="font-size: 16px; text-rendering: optimizeLegibility")
-  = raw @page.content
-- if user_signed_in?
-  %p
-    = link_to 'Edit', edit_page_path(@page)
-    \|
-    = link_to 'Back', pages_path
+- cache ['testo', @page, user_signed_in?] do
+  %h2(style="margin-top: 0; text-transform: uppercase; text-rendering: optimizeLegibility; border-bottom: 1px solid #ccc; margin-bottom: 10px; padding-bottom: 10px")= @page.title
+  %div(style="font-size: 16px; text-rendering: optimizeLegibility")
+    = raw @page.content
+  - if user_signed_in?
+    %p
+      = link_to 'Edit', edit_page_path(@page)
+      \|
+      = link_to 'Back', pages_path
 
 - content_for :gallery do
-  - if @page.immagines.size > 1
-    = render 'gallery'
-  - else
-    = image_tag @page.immagines.first.url(:sky), class: 'img-responsive' if @page.immagines.present?
+  - cache ['gallery', @page, @page.immagines.size] do
+    - if @page.immagines.size > 1
+      = render 'gallery'
+    - else
+      = image_tag @page.immagines.first.url(:sky), class: 'img-responsive' if @page.immagines.present?
 
 
 - content_for :title do
   = @page.title
-
-- content_for :colonna_destra do
-  = image_tag 'sedie.jpg', style: 'max-width: 100%; min-width: 100%'
-
