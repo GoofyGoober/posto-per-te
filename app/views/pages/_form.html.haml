@@ -9,6 +9,6 @@
 - if @page.present?
   %hr
   = simple_form_for Immagine.new, html: {multipart: true} do |f|
-    = f.input :url, as: :file
+    = f.input :url, as: :file, label: 'Immagine'
     = f.input :page_id, as: :hidden, input_html: {value: @page.id}
     = f.submit 'Save', class: 'btn btn-primary'
