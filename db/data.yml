@@ -1,0 +1,482 @@
+
+---
+pages:
+  columns:
+  - id
+  - title
+  - content
+  - slug
+  - published
+  - created_at
+  - updated_at
+  records: 
+  - - 1
+    - Progetto
+    - "<p>Al pari di forme di povertà conclamate e più comuni che riguardano la sfera
+      economica di un individuo o di una comunità, con sempre maggiore frequenza e
+      intensità sono emerse sul territorio sia locale e nazionale nuove forme di povertà
+      che riguardano il benessere della persona nella sua totalità (fisica, psicologica
+      e spirituale).</p> \r\n\r\n<p>Partendo dai bisogni del territorio emersi in
+      fase di analisi del contesto, il progetto rivolge la propria attenzione e il
+      proprio intervento a persone disagiate che per diverse problematiche - in particolare
+      legate ad un passato di dipendenza da sostanze - non riescono a rilanciarsi
+      nel mondo del lavoro e della società e per questo ad altro rischio di esclusione
+      sociale. </p>\r\n\r\n<p>Marginalità ed esclusione sociale di soggetti disagiati
+      rappresentano un fenomeno complesso e multiforme da trattare e prevenire poiché
+      riguardano gruppi di persone diverse per tipologia e problematiche. </p>\r\n\r\n<p>Tuttavia
+      al di là delle cause specifiche da cui esse hanno origine, ciò che determinano
+      nella persona/comunità da esse affette è la deprivazione della propria essenza
+      di individuo poiché come è ormai conclamato e scientificamente dimostrato: “l’uomo
+      è un essere sociale” (Aristotele).</p> \r\n\r\n<p>Parafrasando, potremmo affermare
+      che un uomo sganciato ed escluso dal contesto sociale in cui vive e dalle persone
+      che lo circondano non risponde più al fine per cui è stato creato: <strong>entrare
+      in relazione con gli altri per realizzare il senso più profondo della propria
+      vita</strong>.</p>"
+    - progetto
+    - false
+    - '2015-06-03 11:00:32.503425'
+    - '2015-06-03 15:44:00.936086'
+  - - 2
+    - Dove siamo?
+    - "<p>Complesso denominato <strong>Vena d’oro in Comune di Ponte nelle Alpi</strong>
+      - Belluno</p>\r\n\r\n<iframe src=\"https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d707575.4769864035!2d12.272871984130841!3d46.1514090808463!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x477908111eb8b67d%3A0x405acf116166c2de!2s32014+Colonia+Climatica+BL%2C+Italia!5e0!3m2!1sit!2sit!4v1433341544196\"
+      width=\"100%\" height=\"600\" frameborder=\"0\" style=\"border:0\"></iframe>\r\n"
+    - dove-siamo
+    - true
+    - '2015-06-03 13:29:56.025686'
+    - '2015-06-04 16:48:21.359201'
+  - - 3
+    - Chi siamo?
+    - "<p>L’Associazione nasce legalmente come Onlus il 21/12/2011 con sede legale
+      in Venezia Santa Croce 2177 e con Sede operativa presso il complesso denominato
+      “Vena d’oro” in Comune di Ponte nelle Alpi, ex colonia Enel, donato in usufrutto
+      da privati.</p>\r\n\r\n<p>Opera sul territorio veneto come braccio operativo
+      dell’Associazione di volontariato <a href=\"http://http://www.nuoviorizzonti.org/\"
+      target=\"_blank\">Nuovi Orizzonti Onlus</a> con sede legale a Piglio (FR) e
+      presente sul territorio nazionale ed internazionale con diverse sedi e case
+      di accoglienza.</p>\r\n\r\n<p>Comuni sono le finalità di intervento che le caratterizzano.
+      Entrambe si pongono l’obiettivo di intervenire in diversi ambiti di disagio,
+      partendo dall’attenzione verso l’essere umano e puntando alla riscoperta del
+      dono e del valore unico e immenso di ciascuna vita.</p>"
+    - chi-siamo
+    - false
+    - '2015-06-03 14:01:28.545585'
+    - '2015-06-03 14:19:44.837478'
+  - - 4
+    - Progetto Cittadella Cielo
+    - "<p>A livello internazionale, <a href=\"http://www.nuoviorizzonti.org/\">Nuovi
+      Orizzonti</a> promuove fin dalla sua nascita il <a href=\"http://www.cittadellacielo.com/\"
+      target=\"_blank\">Progetto Cittadella Cielo</a>, in via di realizzazione con
+      diversi centri in Italia (Belluno, Frosinone) e all’estero (Bosnia-Erzegovina
+      e Brasile). </p>\r\n<p>All’interno di questa cornice si inseriscono anche le
+      attività sviluppate presso il complesso della Vena d’Oro gestito dall’Associazione
+      Insieme Verso Nuovi Orizzonti Triveneto Onlus. </p>\r\n"
+    - cittadella-cielo
+    - false
+    - '2015-06-03 14:14:42.835791'
+    - '2015-06-03 16:37:22.600387'
+  - - 5
+    - Partner
+    - "<ul>\r\n<li><a href=\"#nuovi\">Associazione di Volontariato ONLUS Nuovi Orizzonti</a></li>\r\n<li><a
+      href=\"#servizi\">Servizi Sociali del Comune di Ponte nelle Alpi</a></li>\r\n<li><a
+      href=\"#caritas\">Caritas Diocesana di Belluno e Feltre</a></li>\r\n<li><a href=\"#coop\">Cooperativa
+      il Cantiere della Provvidenza SPA</a></li>\r\n<li><a href=\"#scuola\">C.F.P.M.E
+      Scuola di formazione professionale Maestranze Edili ed Affini, Belluno</a></li>\r\n<li><a
+      href=\"#parrocchia\">Parrocchia di San Cassiano di Venezia</a></li>\r\n</ul>\r\n\r\n<a
+      id=\"nuovi\"></a>\r\n<h3>Associazione di Volontariato ONLUS Nuovi Orizzonti</h3>\r\n<p>Opera
+      nell’ambito del recupero di persone disagiate, partendo dall’attenzione verso
+      l’essere umano e puntando alla riscoperta del dono e del valore unico e immenso
+      di ciascuna vita.</p>\r\n<p>Nuovi Orizzonti opera sull’intero territorio nazionale
+      e anche all’estero e si pone l’obiettivo di intervenire in tutti gli ambiti
+      del disagio sociale. Per questo, realizza azioni di solidarietà a sostegno di
+      chi vive situazioni di grave difficoltà; svolge la sua attività avendo presenti
+      tutte le realtà di emarginazione sociale, in modo particolare del mondo giovanile;
+      per esso propone specifici interventi innovativi e un proprio programma di ricostruzione
+      integrale della persona che unisce la dimensione psicologica a quella umana
+      e spirituale.\r\nIn risposta al crescente disagio presente nella società (tossicodipendenza,
+      delinquenza, sfruttamento, diversità culturale, famiglie disgregate) si propone
+      di accogliere persone che vivono in queste situazioni con l’obiettivo di restituirle
+      a una piena realizzazione della loro vita attraverso l’inserimento in un programma
+      pedagogico-riabilitativo residenziale di consolidata efficacia pluriennale ed
+      accompagnandole nel difficile percorso di reinserimento sociale e lavorativo.</p>\r\n<p>L’Associazione
+      collabora, su più versanti sin dalla sua costituzione legale, con la capofila
+      che ne rappresenta, appunto, il braccio operativo sul territorio. Attualmente
+      la capofila ospita già 4 ragazzi volontari, provenienti dai centri di accoglienza
+      residenziale dell’associazione Nuovi Orizzonti, che hanno concluso il programma
+      terapeutico e che prestano il loro servizio gratuito nella manutenzione di alcune
+      strutture del complesso Vena d’Oro, in attesa di trovare un’occupazione.</p>\r\n<p>L’Associazione
+      Nuovi Orizzonti collaborerà nello specifico al progetto “C’è posto per te” attraverso:\r\n<ul>\r\n<li>La
+      condivisione del proprio programma riabilitativo per il percorso di autostima
+      e conoscenza di sé previsto dal progetto a favore dei beneficiari.</li>\r\n<li>L’invio
+      e la segnalazione di possibili beneficiari provenienti da diversi centri residenziali
+      sul territorio nazionale che, dopo aver concluso il proprio percorso riabilitativo
+      in comunità, versano ancora in situazioni di disagio grave per mancato reinserimento
+      nel tessuto sociale.</li>\r\n<li>La collaborazione nella divulgazione a livello
+      nazionale dei risultati finali del progetto in occasione di una giornata di
+      spiritualità a Roma dell’Associazione stessa. </li>\r\n</ul>\r\n</p>\r\n\r\n<a
+      id=\"servizi\"></a>\r\n<h3>Servizi Sociali del Comune di Ponte nelle Alpi</h3>\r\n<p>I
+      servizi sociali del Comune collaborano da circa due d’anni con la Capofila nella
+      segnalazione di persone del territorio che necessitano di un accompagnamento
+      sia residenziale che diurno. Fino ad oggi la Capofila ha potuto accogliere in
+      forma diurna solo una delle persone segnalate (borderline), che nel tempo ha
+      riportato notevoli progressi nella sfera relazionale ed emotiva grazie all’istaurarsi
+      di rapporti di amicizia con il personale dell’Associazione (volontari e collaboratori)
+      e all’ergoterapia proposta. Ciò ha avuto buone ripercussioni sul suo stato emotivo
+      a beneficio di tutta la Comunità di Ponte nelle Alpi.</p>\r\n<p>Il Comune collaborerà
+      nello specifico al progetto “C’è posto per te”  attraverso le attività dei Servizi
+      Sociali comunali, garantendo la creazione di una rete locale che sostenga le
+      iniziative riabilitative e il reinserimento sociale. </p>\r\n\r\n<a id=\"caritas\"></a>\r\n<h3>Caritas
+      Diocesana di Belluno e Feltre</h3>\r\n<p>L’Ente collabora già da anni con la
+      Capofila nello scambio di informazioni su progetti ed iniziative locali rivolte
+      alle fasce più disagiate del territorio, nel comune intento di sviluppare degli
+      interventi congiunti ed in rete. Di recente si è prodigato, in collaborazione
+      con i servizi sociali di Ponte nelle Alpi, per l’accoglienza di un ragazzo ex-carcerato
+      senza fissa dimora, che è tuttora ospite delle struttura d’accoglienza della
+      Vena d’Oro  e che al momento presta il suo servizio volontario in sede.</p>\r\n<p>La
+      Caritas collaborerà in particolare al progetto “C’è posto per te” attraverso
+      l’invio e la segnalazione di possibili beneficiari provenienti dal territorio
+      che si rivolgano alle sue sedi in cerca di un sostegno per mancato reinserimento
+      nel tessuto sociale e lavorativo.</p>\r\n\r\n<a id=\"coop\"></a>\r\n<h3>Cooperativa
+      il Cantiere della Provvidenza SPA</h3>\r\n<p>Il \"Cantiere della Provvidenza
+      SPA - Società Persona Ambiente – Società Cooperativa Sociale” Onlus è una risorsa
+      concreta che propone un concetto di sussidiarietà abbinato ad un’etica imprenditoriale.
+      Il Cantiere della Provvidenza si è costituito il primo febbraio 2013, come una
+      vera e propria azienda devoluta al sociale, il cui fine prioritario è la riconquista
+      della dignità umana attraverso il lavoro e le idee imprenditoriali. La Cooperativa
+      si propone di attivare un largo lavoro di rete, offrendosi come modello che
+      mette in sinergia il concetto di responsabilità sociale ed abbina una rete organizzata
+      di risorse imprenditoriali, il cui vertice è sempre rappresentato dalla centralità
+      della persona.</p>\r\n<p>La cooperativa collaborerà per la prima volta con la
+      Capofila in occasione del progetto “C’è posto per te” attraverso:\r\n<ul>\r\n<li>Il
+      sostegno nel reinserimento lavorativo dei beneficiari con segnalazione di eventuali
+      possibilità lavorative provenienti dal territorio e dalla rete di conoscenze
+      della cooperativa.</li>\r\n<li>L’offerta di eventuale forza lavoro (i membri
+      della cooperativa) retribuita dal Cantiere della Provvidenza, nell’ambito della
+      ristrutturazione/manutenzione della Cittadella Vena d’Oro.</li>\r\n</ul></p>\r\n\r\n<a
+      id=\"scuola\"></a>\r\n<h3>C.F.P.M.E Scuola di formazione professionale Maestranze
+      Edili ed Affini, Belluno</h3>\r\n<p>La scuola edile da oltre 50 anni realizza
+      la sua missione formativa cercando di essere sempre attenta e propositiva circa
+      i reali fabbisogni: 1. delle imprese che necessitano di avere figure professionali
+      affidabili e capaci di operare autonomamente; 2. dei giovani che intendono inserirsi
+      nel settore edile con sufficienti livelli di qualifica immediatamente spendibili;
+      3. delle maestranze che chiedono di perfezionare ed affinare le proprie conoscenze
+      e capacità.</p>\r\n<p>Il centro di formazione collaborerà per la prima volta
+      con la capofila nel progetto “C’è posto per te” fornendo docenti qualificati
+      in loco per la formazione al lavoro dei beneficiari.</p>\r\n\r\n<a id=\"parrocchia\"></a>\r\n<h3>Parrocchia
+      di San Cassiano di Venezia</h3>\r\n<p>La Parrocchia collabora da anni con la
+      Capofila su diversi versanti, condividendone finalità e sostenendo iniziative
+      varie di prevenzione ed evangelizzazione nella città di Venezia.</p>\r\n<p>In
+      collaborazione con la capofila gestisce dal 2012 charity shop T.I.B.E R.I.A.D.E”
+      (negozio di abbigliamento , piccoli elettrodomestici bigiotteria articoli vari
+      ed accessori usati) portato avanti unicamente grazie all’impegno di volontari
+      e destinato alla raccolta fondi da destinare a vari interventi di solidarietà
+      della parrocchia e contributi a vari progetti di prevenzione e sensibilizzazione
+      contro diverse forme di disagio.</p>\r\n<p>La Parrocchia collaborerà con la
+      capofila al progetto “C’è posto per te” attraverso: \r\n<ul>\r\n<li>Il sostegno
+      nel reinserimento lavorativo dei beneficiari con segnalazione di eventuali possibilità
+      lavorative provenienti dal territorio e dalla rete di conoscenze della parrocchia.</li>\r\n<li>Un
+      contributo monetario, ricavato dai proventi del Charity Shop della Parrocchia,
+      che copra parte delle spese di co-finanziamento del progetto.</li>\r\n</p>\r\n"
+    - collaborazioni-partner
+    - false
+    - '2015-06-03 14:37:20.993436'
+    - '2015-06-03 14:54:07.987401'
+  - - 6
+    - Monitoraggio e valutazione
+    - "Accanto alle attività descritte attinenti a ciascun risultato atteso, il progetto
+      prevede anche un’attività extra di monitoraggio costante delle attività e dei
+      risultati raggiunti con relazioni intermedie e finali. \r\nI risultati attesi
+      saranno considerati perseguiti alla fine del progetto in base agli indicatori
+      e ai mezzi di verifica indicati nel quadro logico allegato al progetto, insieme
+      al GANTT (riferimento per la tempistica delle attività) e al budget dettagliato
+      dei costi presentato alla fondazione erogatrice.\r\n"
+    - monitoraggio-valutazione
+    - false
+    - '2015-06-03 14:55:33.813998'
+    - '2015-06-03 14:55:33.813998'
+  - - 7
+    - Obiettivi
+    - "<p>L’<strong>obiettivo generale</strong> del progetto consiste nel contribuire
+      ad una <strong>maggiore inclusione sociale di persone disagiate</strong> ai
+      limiti della marginalità, affinché tali disagi non sfocino per loro in condizioni
+      di difficile recupero.</p> \r\n\r\n<p>Ciò verrà perseguito parzialmente attraverso
+      il conseguimento dell’<strong>obiettivo specifico</strong> del progetto che
+      mira ad <strong>assicurare condizioni di vita più stabili</strong> (lavorative,
+      abitative e relazionali) a <strong>5 beneficiari selezionati</strong> che consentano
+      loro una presenza costante nel territorio ed una loro graduale integrazione
+      nel tessuto sociale. </p>\r\n\r\n<p>I beneficiari accolti sono consapevoli del
+      fatto che dopo un periodo iniziale di accoglienza in forma totalmente gratuita,
+      dovranno lavorare mettendo a frutto i propri talenti per la propria sussistenza.
+      Per contro da parte dell’Associazione ci sarà lo sforzo di aiutarli a far emergere
+      questi talenti e a metterli in condizione di poterli esprimere. L’intervento
+      proposto non rappresenta per i beneficiari una soluzione di tipo assistenzialistico
+      ma piuttosto <strong>un percorso di sostegno ed accompagnamento per una piena
+      reintegrazione nel contesto sociale</strong>, che presuppone necessariamente
+      il loro impegno e il loro coinvolgimento attivo nelle attività previste. La
+      persona è dunque posta al centro e riabilitata in ogni sua dimensione (umana,
+      lavorativa, sociale).</p>"
+    - obiettivi
+    - false
+    - '2015-06-03 14:58:07.243675'
+    - '2015-06-03 15:06:19.405170'
+  - - 8
+    - Problemi affrontati
+    - "<p>La maggior parte dei destinatari del progetto proviene da contesti familiari
+      d’origine problematici o mancanti, che li ha portati nel corso della vita ad
+      uno scarso sviluppo dell’autostima ad una mancanza di progettualità.</p>\r\n\r\n<p>Tali
+      carenze nella sfera affettivo - relazionale sono sfociate per la maggior parte
+      di loro in problematiche di dipendenze da sostanze che, sebbene adeguatamente
+      superate all’interno di comunità di recupero, tuttavia hanno continuato indirettamente
+      a condizionare le loro vite.</p>\r\n\r\n<p>Infatti sebbene si possa parlare
+      di <strong>persone per lo più “riabilitate” da un punto di vista fisico e mentale,
+      non lo sono egualmente da un punto di vista emotivo e sociale</strong>. Una
+      volta terminato il percorso terapeutico all’interno del contesto comunitario
+      protetto, infatti, queste persone arrivate ormai ad un’età poco competitiva
+      sul mercato (40-50 anni) con uno scarso livello di scolarità e una scarsa formazione
+      professionale (a causa del loro passato problematico), non sono state più in
+      grado di rilanciarsi con successo e continuità nel mondo del lavoro dove performance
+      e competizione dominano.</p> \r\n\r\n<p>I corsi di formazione professionali
+      cui hanno partecipato hanno impartito spesso una preparazione obsoleta, non
+      adeguata a quanto richiesto dal mercato. Alcuni posseggono capacità comunicative
+      e linguistiche limitate e comunque non conoscono le opportunità di lavoro offerte
+      nella zona. Anche le possibilità di costruire un’impresa autonoma sono per loro
+      molto scarse, considerato l’accesso al credito troppo gravoso per chi riparte
+      da zero e i costi di consulenza troppo onerosi.  Costretti a cambiare spesso
+      residenza in cerca di prestazioni lavorative occasionali (spesso senza contratto),
+      tra sporadiche ricadute nell’abuso di alcol in particolare e tra serie difficoltà
+      economiche, queste persone da sole non riescono più a reinserirsi pienamente
+      nel tessuto sociale in cui vivono, correndo il rischio con il passare degli
+      anni di trovarsi in una condizione di totale marginalità ed instabilità di vita
+      su tutti i fronti (affettivo, lavorativo, abitativo, assistenziale).  Il ruolo
+      dell’opinione pubblica, infine, non è d’aiuto all’inclusione sociale di queste
+      persone, spesso discriminate per il loro passato (rappresentazione sociale negativa)
+      o per la loro condizione di precarietà generale e svalutate nelle loro potenzialità
+      personali rispetto al contributo umano che invece potrebbero apportare nel contesto
+      sociale di riferimento se adeguatamente coinvolti.</p>"
+    - problemi-affrontati
+    - false
+    - '2015-06-03 15:14:08.549524'
+    - '2015-06-03 15:44:58.211226'
+  - - 9
+    - Beneficiari
+    - "<p>I beneficiari diretti del progetto sono uomini, quasi tutti di età compresa
+      tra i <strong>40 e 50 anni</strong>, con le problematiche già descritte nel
+      precedente paragrafo.</p> \r\n\r\n<p>Per la portata massima della struttura
+      residenziale destinata alla loro accoglienza (per la prima edizione del progetto),
+      il progetto in questa fase pilota, è rivolto ad un massimo di <strong>5 uomini</strong>,
+      provenienti sia dal territorio nazionale che locale, senza discriminazioni di
+      alcun tipo, fermo restando che la conoscenza (almeno base) della lingua italiana,
+      per le attività previste dal progetto, è stato un requisito fondamentale per
+      la selezione.</p>"
+    - beneficiari
+    - false
+    - '2015-06-03 15:21:17.908336'
+    - '2015-06-03 15:22:45.457100'
+  - - 10
+    - Risultati attesi e attività del progetto
+    - "<p>Il raggiungimento dell’obiettivo specifico del progetto è la risultante
+      dei seguenti <strong>4 risultati attesi</strong>, che a loro volta vengono perseguiti
+      attraverso specifiche attività attinenti a ciascuno di essi.</p>\r\n\r\n<ol>\r\n<li>Accoglienza
+      dei beneficiari\r\n<li>Incremento delle possibilità lavorative\r\n<li>Rafforzamento
+      della sfera affettivo-relazionale\r\n<li>Promozione del progetto\r\n</ol>\r\n\r\n<h3>R1.
+      Accoglienza dei beneficiari  selezionati presso le strutture residenziali del
+      centro \"Cittadella Cielo Vena d'Oro\"</h3>\r\n\r\n<p>Le attività previste per
+      il raggiungimento di questo risultato,  riguardano in primis la selezione dei
+      beneficiari da accogliere. I beneficiari, provenienti sia dal territorio locale
+      che nazionale, sono stati selezionati su proposta e segnalazione dei diversi
+      partner di progetto coinvolti. Nell’arco dei primi due mesi di progetto, a seguito
+      di diversi colloqui conoscitivi da parte dell’Associazione capofila, i beneficiari
+      sono stati inseriti gradualmente e poi accolti, nella struttura d’accoglienza
+      prevista. Per ciascuno di essi è stata predisposta una cartellina personale
+      che fungerà da report di tutte le attività svolte, dei progressi e delle difficoltà
+      incontrate durante il progetto.</p>\r\n\r\n<p>Il risultato sarà considerato
+      pienamente raggiunto al termine del progetto, qualora la permanenza dei beneficiari
+      nelle strutture della Vena d’Oro, si dimostri stabile e continuativa almeno
+      per la durata dello stesso. Ciò sarà requisito fondamentale per il proseguimento
+      delle attività e il raggiungimento degli altri risultati e su ciò verterà il
+      costante lavoro motivazionale da parte dell’Associazione nei confronti dei beneficiari.</p>\r\n\r\n<h3>R2.
+      Incremento delle possibilità lavorative per i beneficiari</h3>\r\n<p>Tale risultato
+      sarà perseguito attraverso due attività principali e sarà misurabile al termine
+      del progetto in termini di contratti di lavoro stipulati o di inserimento dei
+      beneficiari all’interno di cooperative locali.</p>\r\n<p>La prima attività riguardante
+      la formazione al lavoro, a partire dai mesi estivi, prevede l’acquisto dell’attrezzatura
+      da lavoro per i 5 beneficiari e l’erogazione della formazione specifica al lavoro,
+      divisa in due tranche per un totale di 150 ore. Si procederà di pari passo anche
+      all’istallazione di un impianto di riscaldamento per la struttura destinata
+      alla formazione in aula (corsi propedeutici al lavoro) per i mesi invernali.
+      </p>\r\n<p>La formazione sul campo, che ha luogo in sede, verte essenzialmente
+      sulla muratura e carpenteria ed è stata definita con i formatori /partner del
+      progetto (scuola edile CFPME di Sedico)  durante la fase selettiva dei beneficiari
+      in base alle caratteristiche e competenze reali e potenziali degli stessi. </p>\r\n<p>Parallelamente
+      alla formazione i beneficiari effettuano un percorso di ergoterapia quotidiano,
+      con il supporto di un operatore, propedeutico alla formazione stessa e anche
+      terapeutico nella riaffermazione della valenza pedagogica, educativa e formativa
+      del lavoro, in vista di un reinserimento lavorativo nel territorio. </p>\r\n<p>La
+      seconda attività prevista per questo risultato, verte sull’accompagnamento burocratico
+      e motivazionale dei beneficiari nella ricerca costante di lavoro sul territorio
+      e nel reinserimento, che avverrà in modo più mirato durante seconda metà del
+      progetto. I beneficiari saranno accompagnati dai volontari dell’Associazione
+      capofila, con  il supporto dell’operatore di riferimento e della psicologa,
+      nella ricerca costante di lavoro sul territorio tramite web, annunci di lavoro
+      su quotidiani locali e l’iscrizione al centro impiego territoriale. Anche i
+      partner di progetto, con le informazioni scambiate in rete, saranno di grande
+      aiuto nella ricerca di lavoro per i beneficiari.</p>\r\n\r\n<h3>R3. Rafforzamento
+      della sfera affettivo-relazionale dei beneficiari</h3> \r\n<p>Tale risultato
+      sarà perseguito trasversalmente attraverso tutte le attività del progetto a
+      partire dall’accoglienza stabile dei beneficiari nelle strutture residenziali,
+      \ all’ergoterapia , alla formazione al lavoro, all’accompagnamento nella ricerca
+      del lavoro e nel reinserimento. Nello specifico tuttavia l’attività portante
+      prevista per questo risultato è l’attivazione di un percorso di conoscenza di
+      sé ed autostima per i beneficiari, della durata di 11 mesi. Esso è stato calibrato
+      e supervisionato più nel dettaglio dalla psicologa del progetto insieme all’operatore,
+      in base alle caratteristiche specifiche dei 5 beneficiari selezionati, secondo
+      le linee guida di base del programma pedagogico - riabilitativo dell’Associazione
+      Nuovi Orizzonti Onlus. Si tratta di incontri settimanali di gruppo ed individuali
+      con l’operatore del progetto e con la psicologa (3 ore mensili). Gli argomenti
+      trattati hanno come obiettivo il rafforzamento dell’autonomia emotiva e lavorativa
+      dei beneficiari e vertono in particolare sui temi della fertilità e della decisionalità,
+      partendo dal potenziamento delle loro capacità e dalla scoperta di nuove potenzialità.</p>\r\n\r\n<h3>R4
+      .Promozione del progetto e disseminazione dei risultati finali ad enti e istituzioni
+      pubbliche e private locali</h3>\r\n<p>Tale risultato sarà perseguito attraverso
+      diverse attività di divulgazione del progetto.</p>\r\n<p>A livello locale e
+      nazionale il progetto viene divulgato e reso accessibile a tutti attraverso
+      la pubblicazione del sito web dedicato che verrà aggiornato con cadenza trimestrale.
+      Esso contiene materiale fotografico e contenuti relativi alle attività in via
+      di svolgimento e ai risultati man mano raggiunti. </p>\r\n<p>Tutti i risultati
+      raggiunti saranno illustrati in modo dettagliato nel corso dell’evento finale
+      del progetto che consisterà nell’organizzazione di un evento sul territorio
+      che coinvolga tutti i partner del progetto ed altri enti ed istituzioni pubbliche
+      e private locali con un potenziale interesse in esso e nella sua riedizione
+      negli anni successivi, per un rafforzamento della rete di collaborazione gia
+      esistente.</p>\r\n<p>A livello nazionale inoltre è prevista una presentazione
+      pubblica del progetto in occasione di una giornata di spiritualità dell’Associazione
+      Nuovi Orizzonti Onlus, per rendere noti i risultati finali del progetto e distribuire
+      materiale divulgativo a sostegno di ulteriori edizioni del progetto.</p>\r\n"
+    - risultati-attivita
+    - false
+    - '2015-06-03 15:23:57.250818'
+    - '2015-06-03 15:30:05.733333'
+
+---
+immagines:
+  columns:
+  - id
+  - url_file_name
+  - url_content_type
+  - url_file_size
+  - url_updated_at
+  - created_at
+  - updated_at
+  - page_id
+  records: 
+  - - 9
+    - HR4A0179.jpg
+    - image/jpeg
+    - 1948708
+    - '2015-06-05 17:21:27.385580'
+    - '2015-06-05 17:21:28.733140'
+    - '2015-06-05 17:21:28.733140'
+    - 1
+  - - 10
+    - HR4A9898.jpg
+    - image/jpeg
+    - 1296853
+    - '2015-06-05 17:31:23.391711'
+    - '2015-06-05 17:31:24.379031'
+    - '2015-06-05 17:31:24.379031'
+    - 9
+  - - 11
+    - HR4A9805.jpg
+    - image/jpeg
+    - 1619786
+    - '2015-06-05 17:33:00.635785'
+    - '2015-06-05 17:33:01.748173'
+    - '2015-06-05 17:33:01.748173'
+    - 7
+  - - 12
+    - HR4A9776.jpg
+    - image/jpeg
+    - 2192577
+    - '2015-06-05 17:33:34.826442'
+    - '2015-06-05 17:33:36.521363'
+    - '2015-06-05 17:37:38.693645'
+    - 6
+  - - 13
+    - HR4A9810.jpg
+    - image/jpeg
+    - 1500475
+    - '2015-06-05 17:35:11.003620'
+    - '2015-06-05 17:35:12.187968'
+    - '2015-06-05 17:35:12.187968'
+    - 9
+  - - 19
+    - HR4A9854.jpg
+    - image/jpeg
+    - 3528225
+    - '2015-06-05 17:46:03.805669'
+    - '2015-06-05 17:46:04.925235'
+    - '2015-06-05 17:46:04.925235'
+    - 2
+  - - 20
+    - HR4A0062.jpg
+    - image/jpeg
+    - 1254142
+    - '2015-06-05 17:46:34.200779'
+    - '2015-06-05 17:46:35.602712'
+    - '2015-06-05 17:46:35.602712'
+    - 9
+  - - 21
+    - HR4A0108.jpg
+    - image/jpeg
+    - 2138419
+    - '2015-06-05 17:49:37.462488'
+    - '2015-06-05 17:49:38.290497'
+    - '2015-06-05 17:49:38.290497'
+    - 8
+  - - 22
+    - HR4A0165.jpg
+    - image/jpeg
+    - 2552582
+    - '2015-06-05 17:51:44.917941'
+    - '2015-06-05 17:51:46.065583'
+    - '2015-06-05 17:51:46.065583'
+    - 4
+  - - 23
+    - HR4A0050.jpg
+    - image/jpeg
+    - 1732208
+    - '2015-06-05 17:55:02.540696'
+    - '2015-06-05 17:55:03.289642'
+    - '2015-06-05 17:55:03.289642'
+    - 3
+  - - 24
+    - HR4A0015.jpg
+    - image/jpeg
+    - 1209957
+    - '2015-06-05 17:56:55.359892'
+    - '2015-06-05 17:56:56.379705'
+    - '2015-06-05 17:56:56.379705'
+    - 7
+  - - 25
+    - HR4A0014.jpg
+    - image/jpeg
+    - 1806141
+    - '2015-06-05 17:58:17.161474'
+    - '2015-06-05 17:58:18.318701'
+    - '2015-06-05 17:58:18.318701'
+    - 5
+
+---
+users:
+  columns:
+  - id
+  - email
+  - encrypted_password
+  - created_at
+  - updated_at
+  records: 
+  - - 1
+    - descovi@gmail.com
+    - "$2a$10$80t1ijHBEyvzczRuRD1fueaFuP0JWqUkFDHSeFWmkP01OtVrBnaga"
+    - '2015-06-05 15:41:12.582006'
+    - '2015-06-05 15:41:12.582006'
